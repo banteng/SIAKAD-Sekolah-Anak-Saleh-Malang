@@ -1,0 +1,2405 @@
+# Webalizer V2.21-02 Incremental Data - 04/24/2020 21:21:55
+2020 4 24 21 21 55
+4597 3603 114 809 109 49 357834376 3299 248 0
+5 1 942 9 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+130 86 33411963 9 74 13
+571 267 48269301 16 163 22
+2922 2618 144947530 22 2603 86
+248 186 56242964 18 128 31
+43 37 4951456 12 20 13
+71 54 12595789 20 44 20
+365 160 6804745 6 152 9
+39 33 816322 15 19 13
+44 32 25387733 7 17 7
+29 26 119354 5 26 7
+12 8 54879 5 10 6
+18 11 3967080 9 10 6
+14 10 387247 8 5 3
+9 6 40628 3 7 4
+71 62 15901116 4 14 4
+11 7 3936269 5 7 4
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+46 37 22101784 10
+91 79 10595849 25
+27 26 464868 19
+78 51 35571522 32
+23 21 4013368 19
+95 67 21557168 74
+668 634 35283310 582
+115 87 1178395 102
+42 33 4504704 28
+962 878 32436154 808
+164 144 12259559 136
+85 59 8904243 53
+683 599 32361289 666
+386 319 32292520 278
+156 106 35157914 96
+52 36 10336175 39
+5 4 28299 5
+161 94 23059526 55
+286 103 6241790 45
+15 13 82145 13
+26 20 4028339 23
+69 40 11402014 34
+22 18 7931333 16
+340 135 6042108 141
+0
+0
+0
+3603
+0
+0
+0
+0
+0
+23
+0
+11
+11
+207
+387
+0
+90
+0
+0
+0
+2
+194
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+68
+0
+0
+1
+0
+0
+# -urls- 
+/pbt/theme/image.php/standard/core/1586587338/help
+0 1 0 1114 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/edit
+0 1 0 820 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/clear_formatting.png
+1 1 0 375 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/assignroles
+0 1 0 910 0 1
+/pbt/theme/image.php/clean/core/1586608629/t/edit_menu
+0 1 0 1325 0 0
+/templates/assets/bootstrap-datetimepicker/css/datetimepicker.css
+0 11 0 49680 0 0
+/pbt/course/editsection.php
+0 2 0 80605 0 0
+/templates/assets/bootstrap-daterangepicker/daterangepicker-bs3.css
+0 12 0 24070 0 0
+/cat/___/js/jquery-1.11.3.min.js
+0 3 0 95957 0 0
+/pbt/theme/image.php/anomaly/scorm/1586587338/icon
+0 1 0 4993 0 0
+/pbt/lib/yuilib/3.13.0/cssbutton/cssbutton-min.css
+0 1 0 5413 0 0
+/pbt/lib/javascript.php/1586587338/question/qengine.js
+0 1 0 849 0 0
+/pbt/theme/image.php/anomaly/assign/1586587338/icon
+0 1 0 5648 0 1
+/pbt/theme/image.php/clean/core/1586608629/t/switch_plus
+0 8 0 8288 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/sort_asc
+0 1 0 758 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/button_bg.png
+1 3 0 8793 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/delete
+0 1 0 953 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/loading_small
+0 1 0 1720 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/moodlelogo
+0 6 0 13085 1 2
+/
+0 245 0 1459919 123 83
+/pbt/theme/image.php/clean/core/1586587338/u/f1
+0 1 0 2578 0 0
+/pbt/theme/image.php/clean/core/1586587338/u/f2
+0 1 0 1557 0 0
+/pbt/theme/image.php/clean/label/1586587338/icon
+0 1 0 6256 0 0
+/pbt/theme/image.php/clean/theme/1586608523/favicon
+0 1 0 1150 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/style/editor_plugin.js
+0 3 0 3351 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/corners_header
+0 2 0 348 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/cohort
+0 1 0 1233 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/spacer
+0 1 0 43 0 0
+/pbt/mod/quiz/summary.php
+0 1 0 26951 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/emotions/editor_plugin.js
+0 3 0 2028 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/copy
+0 1 0 761 0 1
+/pbt/theme/javascript.php/clean/1586587338/footer
+0 3 0 1608 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/move_2d
+0 1 0 1090 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/align_right.png
+1 1 0 143 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/docs
+0 3 0 3033 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/collapsed
+0 3 0 2301 1 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/course
+0 1 0 1426 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/restore
+0 3 0 3141 1 0
+/templates/menu/style.css
+0 2 0 7502 0 0
+/pbt/
+0 66 0 2032767 13 1
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/fullscreen/editor_plugin.js
+0 3 0 13488 0 0
+/pbt/theme/image.php/fusion/core/1586608523/moodlelogo
+0 1 0 2617 0 0
+/pbt/lib/yuilib/3.13.0/cssgrids/cssgrids-min.css
+0 1 0 1674 0 0
+/cat/assets/login/vendor/bootstrap/js/bootstrap.min.js
+0 18 0 204572 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/bold.png
+1 3 0 996 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/filter
+0 4 0 2619 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/switch_minus
+0 2 0 1872 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/addfile
+0 1 3273098173399065955 763 0 0
+/pbt/user/selector/search.php
+0 88 8391157617903498542 184984 0 0
+/pbt/theme/image.php/fusion/glossary/1586608523/icon
+0 1 8750053371139088741 9064 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/groupn
+0 1 1952804398 827 0 0
+/pbt/theme/yui_combo.php
+0 304 7579117694681835884 2611783 3 9
+/pbt/theme/image.php/anomaly/survey/1586587338/icon
+0 1 7579117694681835884 5130 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/settings
+0 2 0 2632 0 0
+/pbt/theme/image.php/clean/glossary/1586608629/icon
+0 1 0 9064 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/badge
+0 1 0 1263 0 0
+/pbt/theme/image.php/fusion/theme/1586587338/side-start
+0 1 0 1875 0 0
+/pbt/cohort/edit.php
+0 26 0 2899810 2 0
+/pbt/theme/image.php/clean/core/1586587338/i/dragdrop
+0 1 0 1076 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/switch_minus
+0 1 0 936 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/dragdrop
+0 1 0 1076 0 0
+/pbt/theme/image.php/anomaly/forum/1586587338/icon
+0 1 0 4348 0 0
+/pbt/theme/image.php/clean/core/1586608629/a/refresh
+0 1 0 957 0 0
+/pbt/theme/image.php/clean/scorm/1586608629/icon
+0 1 0 4993 0 0
+/cat/assets/login/fonts/poppins/Poppins-Regular.ttf
+0 9 0 1307808 0 0
+/cat/login
+0 30 0 143860 0 1
+/pbt/theme/image.php/anomaly/qtype_calculatedmulti/1586587338/icon
+0 1 0 909 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/collapsed
+0 1 0 767 1 0
+/pbt/theme/image.php/standard/core/1586587338/i/assignroles
+0 1 0 910 0 0
+/paud/keuangan/home/detailSPP/img/favicon.png
+1 3 0 127458 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/delete
+0 1 0 953 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/loading
+0 1 0 6715 0 0
+/pbt/theme/image.php/anomaly/qtype_calculatedsimple/1586587338/icon
+0 1 0 896 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/pdw/2013110500/img/toolbars.png
+1 3 0 8595 0 0
+/cat/assets/login/vendor/tilt/tilt.jquery.min.js
+0 18 0 22560 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/block_to_dock
+0 3 0 3090 0 0
+/pbt/theme/image.php/clean/core/1586608629/a/help
+0 1 0 1114 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/show
+0 1 0 1080 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/favicon
+0 1 0 894 0 0
+/pbt/theme/image.php/fusion/theme/1586587338/header-bg-sm
+0 1 0 542 0 0
+/pbt/install.php
+0 19 0 103661 1 1
+/pbt/theme/image.php/anomaly/theme/1586587338/tab/left_hover
+0 1 0 292 0 0
+/pbt/theme/image.php/anomaly/choice/1586587338/icon
+0 1 0 3166 1 0
+/pbt/theme/image.php/fusion/core/1586587338/t/expanded
+0 1 0 761 0 0
+/cat/assets/login/css/util.css
+0 19 0 1302210 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/sprite
+0 1 0 1002 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/left
+0 1 0 900 1 0
+/sd/keuangan/login
+0 4 0 9228 1 1
+/pbt/theme/image.php/clean/repository_upload/1586587338/icon
+0 1 0 1971 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/navigationitem
+0 1 0 754 0 0
+/pbt/theme/standard/pix/favicon.ico
+0 1 0 894 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/save/editor_plugin.js
+0 3 0 4707 0 0
+/pbt/theme/image.php/standard/core/1586587338/t/collapsed
+0 2 0 1534 0 0
+/pbt/backup/backup.php
+0 1 0 58784 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/filter
+0 1 0 873 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/grades
+0 1 0 912 0 0
+/cat/adm/m_siswa
+0 2 0 28766 0 0
+/pbt/theme/image.php/clean/repository_wikimedia/1586608629/icon
+0 1 0 1029 0 0
+/pbt/theme/image.php/clean/core/1586608629/moodlelogo
+0 10 0 26170 0 1
+/templates/img/arrow-up.png
+1 1 0 1060 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/cohort
+0 2 0 2536 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/header-bg-sm
+0 1 0 542 0 0
+/pbt/theme/image.php/clean/url/1586608629/icon
+0 1 0 53458 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/table.png
+1 1 0 153 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/badge
+0 1 0 1263 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/text_color.png
+1 1 0 416 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/preview/editor_plugin.js
+0 3 0 3153 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/collapsed
+0 2 0 1534 0 0
+/pbt/theme/image.php/fusion/assign/1586608523/icon
+0 1 0 5648 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/nosubcat
+0 1 0 153 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/move_2d
+0 1 0 1090 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/import
+0 1 0 1047 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/course
+0 4 0 5704 0 0
+/pbt/theme/fusion/pix/screenshot.jpg
+1 1 0 41873 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/block_to_dock
+0 1 0 1030 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/move
+0 1 0 1025 0 0
+/pbt/theme/image.php/clean/forum/1586608629/icon
+0 2 0 8696 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/inlinepopups/skins/clearlooks2/window.css
+0 3 0 19875 0 0
+/pbt/theme/image.php/clean/workshop/1586587338/icon
+0 1 0 6767 0 0
+/pbt/theme/image.php/clean/qtype_shortanswer/1586608629/icon
+0 1 0 68 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/restore
+0 1 0 1047 0 0
+/pbt/theme/image.php/clean/qtype_match/1586608629/icon
+0 1 0 149 0 0
+/pbt/theme/image.php/clean/core/1586587338/a/help
+0 1 0 1114 0 0
+/pbt/theme/image.php/fusion/core/1586608523/docs
+0 1 0 1011 0 1
+/pbt/login/
+0 38 0 515016 0 1
+/pbt/lib/javascript.php/1586587338/user/selector/module.js
+0 1 0 2018 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/addfile
+0 1 0 763 0 0
+/pbt/theme/styles.php/fusion/1586608523/all
+0 1 0 61888 1 0
+/pbt/lib/javascript.php/1586587338/mod/quiz/edit.js
+0 1 0 1062 0 0
+/pbt/theme/image.php/anomaly/lti/1586587338/icon
+0 1 0 4028 0 0
+/templates/menu/script.js
+0 2 0 496 0 0
+/pbt/theme/image.php/anomaly/repository_local/1586587338/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/move
+0 1 0 1025 0 0
+/pbt/lib/yuilib/3.17.2/event-hover/event-hover-min.js
+0 1 0 712 0 0
+/pbt/theme/javascript.php/clean/1586608523/footer
+0 1 0 536 0 0
+/pbt/cohort/assign.php
+0 50 0 5437067 1 1
+/pbt/theme/image.php/fusion/survey/1586608523/icon
+0 1 0 5130 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/nonbreaking/editor_plugin.js
+0 3 0 2832 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/switch_plus
+0 2 0 2072 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/a/refresh
+0 1 0 957 0 0
+/pbt/theme/image.php/anomaly/qtype_random/1586587338/icon
+0 1 0 1154 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/item
+0 2 0 1698 0 0
+/pbt/theme/image.php/fusion/wiki/1586608523/icon
+0 1 0 13126 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/preview
+0 2 0 1882 0 0
+/pbt/theme/styles.php/clean/1586608523/all
+0 1 0 82963 1 0
+/pbt/theme/image.php/clean/core/1586587338/t/move
+0 1 0 1025 0 0
+/pbt/user/view.php
+0 2 0 112263 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/moodlemedia/2013110500/editor_plugin.js
+0 3 0 2352 0 0
+/pbt/theme/image.php/anomaly/qtype_shortanswer/1586587338/icon
+0 1 0 68 0 0
+/pbt/theme/standard/pix/hgradient.jpg
+1 2 0 346 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/enrolusers
+0 1 0 910 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/calendar
+0 1 0 1248 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/calendar
+0 1 0 1248 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/left_to_right.png
+1 1 0 252 0 0
+/pbt/theme/image.php/fusion/choice/1586608523/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/cohort
+0 1 0 1233 0 1
+/pbt/theme/image.php/anomaly/core/1586587338//t/edit
+0 1 0 1328 0 0
+/cat/assets/login/vendor/bootstrap/css/bootstrap.min.css.map
+0 2 0 502438 0 0
+/pbt/theme/yui_image.php
+0 2 0 5685 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/search.png
+1 1 0 215 0 0
+/templates/css/style.css
+0 31 0 1990788 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/assignroles
+0 4 0 2730 1 0
+/pbt/theme/image.php/clean/assign/1586608629/icon
+0 1 0 5648 1 0
+/pbt/theme/image.php/standard/core/1586587338/moodlelogo
+0 1 0 2617 0 0
+/pbt/theme/styles.php/clean/1586608629/all
+0 9 0 746676 2 0
+/cat/assets/login/vendor/bootstrap/css/bootstrap.min.css
+0 19 0 1874430 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/checkpermissions
+0 1 0 936 0 0
+/pbt/theme/image.php/fusion/core/1586587338/i/dragdrop
+0 1 0 1076 0 0
+/pbt/pix/moodlelogo.png
+1 1 0 2091 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/paste_word.png
+1 1 0 322 0 0
+/pbt/theme/clean/pix/favicon.ico
+0 1 0 1150 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/down
+0 1 0 889 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/show
+0 1 0 1150 0 0
+/pbt/theme/image.php/clean/qtype_description/1586608629/icon
+0 1 0 117 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/superscript.png
+1 1 0 377 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/delete
+0 1 0 953 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/checkpermissions
+0 1 0 936 0 0
+/pbt/theme/image.php/clean/repository_recent/1586608629/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/anomaly/imscp/1586587338/icon
+0 1 0 9188 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/contextmenu/editor_plugin.js
+0 3 0 7620 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/restore
+0 1 0 1047 0 0
+/pbt/theme/image.php/clean/chat/1586587338/icon
+0 1 0 5364 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/groupn
+0 1 0 827 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/content.css
+0 3 0 7227 0 0
+/cat/assets/login/fonts/poppins/Poppins-Bold.ttf
+0 9 0 1271340 0 0
+/pbt/lib/requirejs.php
+0 18 0 34330356 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/cleanup_messy_code.png
+1 1 0 351 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/addfile
+0 1 0 763 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/editstring
+0 1 0 836 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/add
+0 1 0 860 0 0
+/pbt/admin/
+0 16 0 431031 0 0
+/pbt/theme/image.php/clean/theme/1586587338/fp/view_tree_active
+0 1 0 799 0 0
+/pbt/my/
+0 17 0 580570 1 0
+/pbt/theme/image.php/clean/core/1586587338/i/filter
+0 1 0 873 1 0
+/pbt/theme/image.php/boxxie/theme/1586587338/favicon
+0 5 0 4470 0 1
+/pbt/theme/image.php/boxxie/core/1586587338/i/report
+0 4 0 2628 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/grades
+0 1 0 912 1 0
+/pbt/theme/image.php/anomaly/core/1586587338/req
+0 1 0 118 0 0
+/pbt/theme/image.php/clean/core/1586608523/docs
+0 1 0 1011 0 1
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/increase_indent.png
+1 1 0 203 0 0
+/pbt/theme/image.php/fusion/quiz/1586608523/icon
+0 1 0 5240 0 0
+/templates/assets/bootstrap-daterangepicker/moment.min.js
+0 11 0 44052 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/assignroles
+0 1 0 885 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/moodlenolink/2013110500/editor_plugin.js
+0 3 0 3027 0 0
+/pbt/theme/image.php/clean/core/1586587338/a/refresh
+0 1 0 957 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/adv
+0 1 0 118 0 0
+/pbt/theme/image.php/clean/survey/1586608629/icon
+0 1 0 5130 0 0
+/pbt/lib/yuilib/3.13.0/cssfonts/cssfonts-min.css
+0 1 0 450 0 0
+/pbt/theme/image.php/clean/data/1586587338/icon
+0 1 0 5253 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/up
+0 1 0 909 0 0
+/tk/guru/login
+0 1 0 2291 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/import
+0 1 0 1047 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/italic.png
+1 3 0 795 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/switchrole
+0 1 0 827 0 0
+/pbt/theme/image.php/anomaly/lesson/1586587338/icon
+0 1 0 7409 0 0
+/pbt/theme/image.php/anomaly/qtype_description/1586587338/icon
+0 1 0 117 1 0
+/pbt/theme/image.php/fusion/core/1586608523/i/restore
+0 1 0 1047 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/up
+0 1 0 899 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/down
+0 1 0 889 0 0
+/pbt/repository/draftfiles_ajax.php
+0 21 0 4502 0 0
+/pbt/theme/image.php/anomaly/repository_recent/1586587338/icon
+0 1 0 3166 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/advhr/editor_plugin.js
+0 3 0 2541 0 0
+/pbt/theme/image.php/fusion/resource/1586608523/icon
+0 1 0 3604 0 0
+/pbt/lib/javascript.php/1586587338/lib/form/filemanager.js
+0 3 0 18252 0 0
+/cat/___/js/aplikasi.js
+0 3 0 14552 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/preview
+0 1 0 941 0 0
+/pbt/lib/editor/tinymce/all_strings.php
+0 4 0 32932 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/u/f1
+0 2 0 5156 0 0
+/pbt/theme/image.php/clean/resource/1586608629/icon
+0 1 0 3604 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/u/f2
+0 2 0 3114 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/strikethrough.png
+1 1 0 339 0 0
+/pbt/theme/image.php/anomaly/qtype_calculated/1586587338/icon
+0 1 0 78 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/delete
+0 1 0 953 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/addfile
+0 1 0 763 0 0
+/pbt/theme/image.php/clean/imscp/1586608629/icon
+0 1 0 9188 0 0
+/pbt/course/ajax/management.php
+0 13 0 390 0 0
+/pbt/theme/image.php/clean/choice/1586608629/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/docs
+0 1 0 1011 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/hide
+0 1 0 1025 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/loading_small
+0 3 0 5160 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/move
+0 1 0 1025 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/moodleimage/2013110500/editor_plugin.js
+0 4 0 2992 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/up
+0 1 0 909 0 0
+/pbt/theme/image.php/clean/folder/1586587338/icon
+0 1 0 3988 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/withsubcat
+0 1 0 806 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/settings
+0 1 0 1316 0 0
+/pbt/theme/styles.php/clean/1586608629/editor
+0 1 0 6727 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/t/collapsed_empty
+0 1 0 866 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/settings
+0 1 0 1316 0 0
+/pbt/theme/image.php/fusion/scorm/1586608523/icon
+0 1 0 4993 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/return
+0 1 0 947 0 0
+/pbt/theme/image.php/clean/theme/1586608629/sprite
+0 3 0 3006 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/report
+0 1 0 876 0 0
+/pbt/theme/image.php/clean/repository_local/1586608629/icon
+0 1 0 3166 0 0
+/pbt/lib/javascript.php/1586587338/lib/form/filepicker.js
+0 2 0 1252 0 0
+/pbt/theme/styles.php/standard/1586587338/editor
+0 1 0 80 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/collapsed
+0 1 0 767 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/cohort
+0 1 0 1268 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/up
+0 1 0 899 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/fp/view_tree_active
+0 1 0 799 0 1
+/pbt/theme/image.php/clean/core/1586587338/t/assignroles
+0 1 0 885 0 0
+/cat/assets/login/vendor/animate/animate.css
+0 19 0 357720 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/expanded
+0 1 0 761 0 0
+/sd/keuangan/login/do_login
+0 1 0 851 0 0
+/pbt/theme/image.php/anomaly/workshop/1586587338/icon
+0 1 0 6767 0 0
+/cat/assets/login/vendor/jquery/jquery-3.2.1.min.js
+0 18 0 346636 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/directionality/editor_plugin.js
+0 3 0 3777 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/backup
+0 4 0 3147 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/align_center.png
+1 1 0 145 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/print/editor_plugin.js
+0 3 0 1476 0 0
+/pbt/theme/image.php/clean/theme/1586608629/fp/view_tree_active
+0 1 0 799 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/move
+0 1 0 1025 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/groupn
+0 1 0 827 0 0
+/pbt/theme/image.php/fusion/book/1586608523/icon
+0 1 0 4640 0 0
+/pbt/theme/image.php/clean/core/1586608629/docs
+0 2 0 2022 0 1
+/templates/assets/advanced-datatable/media/images/forward_disabled.png
+1 2 0 2142 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/right
+0 1 0 894 1 0
+/pbt/theme/image.php/clean/core/1586587338/i/badge
+0 1 0 1263 0 0
+/cat/assets/login/vendor/select2/select2.min.js
+0 18 0 266656 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/hide
+0 1 0 1025 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/publish
+0 2 0 6290 0 0
+/pbt/theme/image.php/anomaly/wiki/1586587338/icon
+0 1 0 13126 0 1
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/resize.png
+1 3 0 462 0 0
+/pbt/course/management.php
+0 10 0 1233254 0 0
+/paud/keuangan/pilih-laporan
+0 5 0 62075 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/collapsed
+0 1 0 767 1 0
+/pbt/theme/image.php/standard/core/1586587338/docs
+0 2 0 2022 0 0
+/cat/adm/login
+0 2 0 5688 0 1
+/pbt/theme/image.php/fusion/core/1586608523/i/item
+0 1 0 849 0 0
+/pbt/cohort/
+0 54 0 6662646 0 0
+/tk/admin/login
+0 1 0 2312 0 0
+/pbt/theme/styles.php/fusion/1586587338/all
+0 1 0 61888 1 0
+/cat/assets/login/css/main.css
+0 19 0 136005 0 0
+/pbt/theme/image.php/clean/core/1586608523/i/navigationitem
+0 1 0 754 0 0
+/pbt/theme/styles.php/anomaly/1586587338/all
+0 2 0 120378 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/hide
+0 1 0 1025 0 0
+/cat/___/fonts/glyphicons-halflings-regular.woff2
+0 1 0 18028 0 0
+/pbt/theme/image.php/clean/core/1586587338/help
+0 2 0 2228 0 0
+/pbt/theme/styles.php/clean/1586587338/editor
+0 1 0 6728 0 0
+/cat/adm/m_guru
+0 3 0 31935 0 0
+/templates/css/bootstrap-reset.css
+0 28 0 148787 0 0
+/pbt/theme/image.php/clean/theme/1586587338/sprite
+0 1 0 1002 0 0
+/pbt/repository/repository_ajax.php
+0 7 0 1043 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/sort_asc
+0 1 0 758 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/down
+0 1 0 899 0 0
+/pbt/theme/image.php/clean/wiki/1586608629/icon
+0 1 0 13126 0 1
+/pbt/theme/image.php/anomaly/repository_user/1586587338/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/sort_asc
+0 1 0 758 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/assignroles
+0 1 0 910 0 0
+/cat/___/css/bootstrap.css
+0 3 0 294860 0 0
+/pbt/theme/image.php/fusion/forum/1586608523/icon
+0 1 0 4348 0 0
+/pbt/theme/styles_debug.php
+0 321 0 1302636 8 8
+/pbt/theme/image.php/clean/core/1586608629/t/moveleft
+0 1 0 64 0 0
+/pbt/course/editcategory.php
+0 2 0 179393 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/permissions
+0 2 0 1832 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/side-bg
+0 1 0 6097 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/backup
+0 1 0 1049 0 0
+/pbt/theme/image.php/clean/page/1586587338/icon
+0 1 0 7213 0 0
+/pbt/theme/image.php/fusion/theme/1586587338/main-bg
+0 1 0 124 0 0
+/pbt/lib/javascript.php/1586587338/mod/quiz/module.js
+0 1 0 1819 0 0
+/pbt/theme/image.php/clean/core/1586587338/a/create_folder
+0 1 0 825 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/collapsed_empty
+0 3 0 2598 0 0
+/templates/js/jquery.scrollTo.min.js
+0 11 0 9736 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/right
+0 1 0 894 0 0
+/pbt/theme/styles.php/clean/1586587338/all
+0 3 0 248892 0 0
+/pbt/theme/image.php/standard/core/1586587338/t/block_to_dock
+0 2 0 2060 0 0
+/cat/assets/login/fonts/montserrat/Montserrat-Bold.ttf
+0 8 0 784764 0 0
+/pbt/theme/image.php/clean/theme/1586587338/fp/path_folder
+0 1 0 1413 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/edit
+0 2 0 2656 0 0
+/pbt/theme/image.php/fusion/lesson/1586608523/icon
+0 1 0 7409 0 0
+/templates/js/jquery.js
+0 18 0 1675908 0 0
+/pbt/theme/image.php/anomaly/qtype_numerical/1586587338/icon
+0 1 0 78 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/switch_minus
+0 1 0 936 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/checkpermissions
+0 1 0 936 0 0
+/pbt/theme/image.php/clean/lti/1586608629/icon
+0 2 0 8056 0 1
+/pbt/theme/image.php/anomaly/core/1586587338/i/group
+0 1 0 1012 0 0
+/pbt/theme/styles.php/standard/1586587338/all
+0 2 0 132360 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/a/download_all
+0 1 0 1047 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/redo.png
+1 1 0 289 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/switch_minus
+0 2 0 1872 0 0
+/pbt/enrol/ajax.php
+0 6 0 648 0 1
+/paud/keuangan/dashboard
+0 1 0 11122 0 0
+/templates/css/bootstrap.min.css
+0 29 0 2469528 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/delete
+0 1 0 953 1 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/template/editor_plugin.js
+0 3 0 9906 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/numbered_list.png
+1 3 0 633 0 0
+/pbt/theme/image.php/anomaly/quiz/1586587338/icon
+0 1 0 5240 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/assignroles
+0 1 0 885 0 0
+/cat/adm/m_mapel
+0 2 0 19356 0 0
+/cat/___/img/back01.png
+1 3 0 16134 0 0
+/paud/admin/login
+0 8 0 18864 1 1
+/pbt/theme/image.php/clean/core/1586587338/i/down
+0 1 0 899 0 0
+/pbt/course/
+0 24 0 679105 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/inlinepopups/editor_plugin.js
+0 3 0 35784 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/loading_small
+0 1 0 1720 0 0
+/pbt/lib/javascript.php
+0 55 0 2834089 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/edit
+0 1 0 1328 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/preview
+0 1 0 941 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/switchrole
+0 2 0 1654 0 1
+/cat/uji
+0 1 0 8 0 1
+/pbt/theme/image.php/anomaly/core/1586587338/i/filter
+0 1 0 873 0 0
+/pbt/theme/image.php/fusion/url/1586608523/icon
+0 1 0 53458 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/t/switch_minus
+0 6 0 5616 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/grades
+0 1 0 912 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/noneditable/editor_plugin.js
+0 3 0 16293 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/publish
+0 1 0 3145 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/hide
+0 1 0 1086 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/side-start
+0 1 0 1875 0 0
+/pbt/theme/image.php/clean/qtype_calculated/1586608629/icon
+0 1 0 78 0 0
+/pbt/theme/image.php/clean/quiz/1586608629/icon
+0 2 0 10480 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/managefiles/2014010800/img/managefiles.png
+1 3 0 885 0 0
+/pbt/theme/image.php/clean/core/1586608523/i/dragdrop
+0 1 0 1076 0 0
+/cat/assets/login/vendor/bootstrap/js/popper.js
+0 18 0 326680 0 0
+/pbt/theme/image.php/clean/glossary/1586587338/icon
+0 1 0 9064 0 0
+/pbt/enrol/
+0 2 0 31984 0 0
+/pbt/lib/javascript.php/1586587338/lib/form/dndupload.js
+0 4 0 13460 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/t/expanded
+0 4 0 3044 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/show
+0 1 0 1080 0 0
+/pbt/theme/image.php/boxxie/theme/1586587338/sprite
+0 4 0 4008 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/edit
+0 1 0 1328 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/withsubcat
+0 1 0 806 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/group
+0 1 0 1012 0 0
+/sd/admin/login
+0 10 0 23876 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/switchrole
+0 1 0 827 0 0
+/pbt/theme/image.php/clean/scorm/1586587338/icon
+0 1 0 4993 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/import
+0 1 0 1047 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/return
+0 1 0 947 1 0
+/pbt/theme/image.php/fusion/core/1586587338/i/settings
+0 1 0 1316 0 1
+/pbt/theme/image.php/clean/theme/1586587338/favicon
+0 6 0 6900 0 0
+/pbt/theme/image.php/anomaly/qtype_essay/1586587338/icon
+0 1 0 104 0 0
+/pbt/theme/image.php/clean/repository_url/1586608629/icon
+0 1 0 1971 0 0
+/cat/Login/actlogin
+0 6 0 2559 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/report
+0 1 0 876 0 0
+/pbt/theme/image.php/clean/core/1586587338/moodlelogo
+0 3 0 7851 0 0
+/pbt/theme/image.php/boxxie/theme/1586587338/fp/dnd_arrow
+0 3 0 251388 0 0
+/templates/assets/font-awesome/css/font-awesome.css
+0 30 0 680800 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/editor_template.js
+0 3 0 80202 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/moodlelogo
+0 2 0 5234 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/collapsed
+0 8 0 6136 1 0
+/pbt/theme/image.php/clean/core/1586608629/i/badge
+0 2 0 2526 1 0
+/pbt/theme/image.php/boxxie/core/1586587338/a/create_folder
+0 3 0 2475 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/xhtmlxtras/editor_plugin.js
+0 3 0 8268 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/expanded
+0 1 0 761 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/assignroles
+0 2 0 1820 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/pagebreak/editor_plugin.js
+0 3 0 4206 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/source_code.png
+1 1 0 241 0 0
+/pbt/theme/image.php/standard/core/1586587338/req
+0 1 0 118 0 0
+/pbt/mod/quiz/view.php
+0 13 0 799957 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/hide
+0 1 0 1025 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/insertdatetime/editor_plugin.js
+0 3 0 5793 0 0
+/templates/assets/advanced-datatable/media/images/forward_enabled.png
+1 2 0 2142 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/moodlemedia/2013110500/img/icon.png
+1 3 0 729 0 0
+/cat/___/js/ajaxFileUpload.js
+0 1 0 5764 0 0
+/pbt/theme/image.php/boxxie/theme/1586587338/fp/path_folder
+0 3 0 4239 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/withsubcat
+0 1 0 806 0 0
+/pbt/theme/image.php/clean/core/1586608629/a/setting
+0 1 0 1316 0 0
+/cat/assets/login/images/img-01.png
+1 1 0 8599 0 0
+/pbt/theme/image.php/anomaly/book/1586587338/icon
+0 1 0 4640 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/a/add_file
+0 3 0 2799 0 0
+/pbt/lib/yuilib/3.17.2/event-resize/event-resize-min.js
+0 1 0 620 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/more
+0 1 0 860 0 0
+/pbt/lib/ajax/getnavbranch.php
+0 4 0 3815 0 0
+/pbt/theme/image.php/clean/lesson/1586608629/icon
+0 1 0 7409 0 0
+/templates/assets/bootstrap-datepicker/js/bootstrap-datepicker.js
+0 11 0 39534 0 0
+/pbt/theme/image.php/clean/repository_wikimedia/1586587338/icon
+0 1 0 1029 0 0
+/pbt/theme/image.php/anomaly/repository_url/1586587338/icon
+0 1 0 1971 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/switch_plus
+0 1 0 1036 0 1
+/pbt/theme/image.php/clean/repository_user/1586608629/icon
+0 1 0 3166 0 0
+/pbt/lib/javascript.php/1586587338/lib/javascript-static.js
+0 14 0 137657 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/req
+0 2 0 236 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/cohort
+0 1 0 1268 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/align_left.png
+1 1 0 140 0 0
+/pbt/theme/image.php/clean/url/1586587338/icon
+0 1 0 53458 0 0
+/pbt/theme/clean/pix/screenshot.jpg
+1 1 0 44435 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/hide
+0 1 0 1086 0 0
+/paud/kesiswaan/login
+0 1 0 2331 1 0
+/pbt/theme/image.php/anomaly/theme/1586587338/tab/right_hover
+0 1 0 2730 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/hide
+0 1 0 1025 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/checkpermissions
+0 4 0 2808 1 1
+/pbt/theme/image.php/clean/core/1586608629/t/delete
+0 1 0 953 0 0
+/templates/assets/font-awesome/font/fontawesome-webfont.woff
+0 3 0 130716 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/group
+0 1 0 1012 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/advlink/editor_plugin.js
+0 3 0 2919 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/a/help
+0 1 0 1114 0 0
+/templates/js/bootstrap.min.js
+0 27 0 527212 0 0
+/pbt/theme/image.php/clean/book/1586608629/icon
+0 1 0 4640 0 0
+/templates/js/jquery.dcjqaccordion.2.7.js
+0 11 0 26500 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/navigationitem
+0 1 0 754 0 0
+/templates/js/advanced-form-components.js
+0 11 0 22140 0 0
+/pbt/lib/yuilib/3.13.0/plugin/plugin-min.js
+0 1 0 1629 0 0
+/pbt/theme/image.php/clean/forum/1586587338/icon
+0 1 0 4348 0 0
+/pbt/theme/image.php/fusion/core/1586587338/i/navigationitem
+0 1 0 754 0 0
+/templates/assets/advanced-datatable/media/images/sort_asc.png
+1 2 0 2236 0 0
+/pbt/theme/image.php/boxxie/theme/1586587338/fp/view_tree_active
+0 3 0 2397 0 0
+/pbt/theme/image.php/clean/qtype_numerical/1586608629/icon
+0 1 0 78 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/edit_menu
+0 1 0 1325 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/filter
+0 2 0 1746 0 0
+/pbt/theme/image.php/anomaly/label/1586587338/icon
+0 1 0 6256 0 0
+/pbt/theme/image.php/fusion/theme/1586587338/favicon
+0 1 0 894 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/grades
+0 2 0 1824 0 1
+/pbt/theme/image.php/clean/core/1586587338/i/backup
+0 1 0 1049 0 1
+/pbt/theme/image.php/clean/core/1586587338/i/loading_small
+0 1 0 1720 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/permissions
+0 1 0 916 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/block_to_dock
+0 2 0 2060 0 0
+/pbt/theme/image.php/fusion/imscp/1586608523/icon
+0 1 0 9188 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/publish
+0 1 0 3145 0 0
+/templates/js/respond.min.js
+0 11 0 12141 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/edit
+0 2 0 1640 0 0
+/cat/assets/login/vendor/css-hamburgers/hamburgers.min.css
+0 19 0 295290 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/expanded
+0 4 0 3044 0 0
+/pbt/admin/tool/uploaduser/
+0 5 0 1157721 0 0
+/pbt/lib/yuilib/3.17.2/event-flick/event-flick-min.js
+0 1 0 1922 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/switch_plus
+0 1 0 1036 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/layer/editor_plugin.js
+0 3 0 12156 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/import
+0 2 0 2094 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/move
+0 1 0 1025 0 0
+/pbt/lib/yuilib/3.17.2/event-valuechange/event-valuechange-min.js
+0 1 0 3563 0 0
+/pbt/theme/image.php/anomaly/repository_wikimedia/1586587338/icon
+0 1 0 1029 0 0
+/paud/guru/login
+0 4 0 9228 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/restore
+0 4 0 3141 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/u/f1
+0 1 0 2578 0 0
+/pbt/theme/image.php/fusion/theme/1586587338/header-center-sm
+0 1 0 22088 0 0
+/pbt/theme/anomaly/pix/screenshot.jpg
+1 1 0 45757 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/u/f2
+0 1 0 1557 0 1
+/pbt/theme/image.php/clean/core/1586608629/spacer
+0 2 0 86 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/copy
+0 1 0 761 1 0
+/pbt/theme/image.php/fusion/core/1586587338/t/edit_menu
+0 1 0 1325 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/edit
+0 1 0 1328 0 0
+/pbt/theme/image.php/standard/core/1586587338/t/switch_plus
+0 2 0 2072 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/visualchars/editor_plugin.js
+0 3 0 4104 0 0
+/pbt/badges/view.php
+0 1 0 95063 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/assignroles
+0 1 0 885 0 0
+/pbt/mod/quiz/edit.php
+0 36 0 4407813 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/publish
+0 1 0 3145 0 0
+/pbt/theme/image.php/clean/theme/1586587338/fp/view_icon_active
+0 1 0 800 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/cohort
+0 1 0 1268 0 0
+/paud
+0 40 0 270130 2 3
+/pbt/theme/image.php/standard/core/1586587338/i/edit
+0 1 0 820 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/a/setting
+0 1 0 1316 0 0
+/pbt/theme/image.php/clean/theme/1586608629/fp/dnd_arrow
+0 2 0 167592 0 0
+/pbt/theme/image.php/clean/core/1586608629/u/f1
+0 1 0 2578 0 0
+/pbt/theme/image.php/clean/core/1586608629/u/f2
+0 2 0 3114 0 0
+/pbt/theme/image.php/clean/label/1586608629/icon
+0 1 0 6256 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/edit
+0 1 0 820 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/edit
+0 1 0 1328 0 0
+/pbt/theme/image.php/clean/theme/1586608629/favicon
+0 16 0 18400 0 1
+/pbt/pluginfile.php/678/question/questiontext/1/5/3/ppg__examview__KELAS_1__00001_res__mc003-1.jpg
+1 3 0 298258 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/t/collapsed
+0 6 0 4602 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/item
+0 1 0 849 0 0
+/pbt/help_ajax.php
+0 2 0 1520 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/dragdrop
+0 1 0 1076 0 0
+/pbt/lib/ajax/setuserpref.php
+0 2 0 4 0 0
+/pbt/theme/image.php/fusion/core/1586587338/docs
+0 1 0 1011 0 0
+/pbt/theme/image.php/clean/assign/1586587338/icon
+0 1 0 5648 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/right
+0 1 0 894 1 0
+/pbt/lib/javascript.php/1586587338/course/dndupload.js
+0 1 0 4292 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/collapsed_empty
+0 1 0 866 0 0
+/pbt/lib/yuilib/3.17.2/event-tap/event-tap-min.js
+0 1 0 2208 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/filter
+0 1 0 873 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/wrap/2013110500/editor_plugin.js
+0 3 0 6696 0 0
+/pbt/lib/javascript.php/1586587338/repository/filepicker.js
+0 4 0 44044 0 0
+/templates/assets/bootstrap-timepicker/compiled/timepicker.css
+0 12 0 13622 0 0
+/pbt/theme/image.php/clean/theme/1586587338/fp/view_list_active
+0 1 0 742 0 1
+/pbt/theme/image.php/clean/core/1586608629//t/edit
+0 1 0 1328 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/bullet_list.png
+1 3 0 561 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/edit_menu
+0 1 0 1325 0 0
+/pbt/lib/javascript.php/1586587338/lib/form/form.js
+0 4 0 8092 0 0
+/paud/keuangan/tagihan-spp
+0 2 0 148186 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/loading_small
+0 3 0 5160 0 0
+/pbt/theme/image.php/anomaly/qtype_match/1586587338/icon
+0 1 0 149 0 0
+/pbt/theme/image.php/clean/qtype_calculatedmulti/1586608629/icon
+0 1 0 909 0 0
+/pbt/theme/image.php/clean/theme/1586587338/fp/dnd_arrow
+0 1 0 83796 0 0
+/pbt/theme/image.php/clean/repository_recent/1586587338/icon
+0 1 0 3166 0 0
+/sd/siswa/login/do_login
+0 6 0 5136 0 0
+/pbt/theme/image.php/fusion/chat/1586608523/icon
+0 1 0 5364 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/users
+0 1 0 1012 0 0
+/pbt/theme/image.php/clean/core/1586587338/spacer
+0 1 0 43 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/tab/right
+0 1 0 3297 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/copy
+0 1 0 761 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/remove_link.png
+1 3 0 1191 0 0
+/pbt/backup/import.php
+0 1 0 52024 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/edit
+0 4 0 2460 0 0
+/pbt/theme/image.php/clean/core/1586587338/a/logout
+0 1 0 957 0 0
+/pbt/admin/settings.php
+0 8 0 955867 0 0
+/pbt/theme/image.php/anomaly/glossary/1586587338/icon
+0 1 0 9064 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/permissions
+0 1 0 916 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/right_to_left.png
+1 1 0 262 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/left
+0 1 0 900 0 0
+/templates/assets/advanced-datatable/media/images/back_disabled.png
+1 2 0 2124 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/help
+0 3 0 3342 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/assignroles
+0 1 0 910 0 0
+/pbt/message/
+0 1 0 28768 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/warning
+0 4 0 3896 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/return
+0 1 0 947 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/favicon
+0 2 0 1788 0 1
+/pbt/theme/image.php/anomaly/core/1586587338/i/report
+0 1 0 876 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/fp/view_icon_active
+0 1 0 800 0 0
+/templates/assets/advanced-datatable/media/js/jquery.js
+0 11 0 373736 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/down
+0 1 0 889 0 0
+/pbt/theme/image.php/standard/core/1586587338/t/expanded
+0 2 0 1522 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/insert_edit_link.png
+1 3 0 1035 0 0
+/templates/css/style-responsive.css
+0 28 0 178800 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/underline.png
+1 1 0 265 0 0
+/cat/___/js/bootstrap.js
+0 3 0 68890 0 0
+/pbt/theme/image.php/clean/survey/1586587338/icon
+0 1 0 5130 0 0
+/pbt/theme/image.php/clean/theme/1586608629/fp/view_icon_active
+0 1 0 800 0 0
+/cat/assets/login/js/main.js
+0 18 0 5696 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/course
+0 1 0 1426 0 0
+/pbt/theme/image.php/clean/qtype_randomsamatch/1586608629/icon
+0 1 0 152 0 0
+/pbt/theme/image.php/fusion/data/1586608523/icon
+0 1 0 5253 0 0
+/paud/keuangan/laporan
+0 1 0 15828 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/restore
+0 1 0 1047 0 0
+/pbt/theme/styles.php/anomaly/1586587338/editor
+0 1 0 178 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/tab/left
+0 1 0 293 0 0
+/cat/assets/login/images/icons/favicon.ico
+0 4 0 128152 0 0
+/pbt/theme/image.php/anomaly/folder/1586587338/icon
+0 1 0 3988 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/dragdrop
+0 1 0 1076 0 0
+/pbt/theme/image.php/clean/repository_upload/1586608629/icon
+0 1 0 1971 0 0
+/sd/siswa/dashboard
+0 9 0 136495 0 2
+/pbt/theme/image.php/anomaly/theme/1586587338/fp/view_list_active
+0 1 0 742 0 0
+/pbt/admin/upgradesettings.php
+0 2 0 27506 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/group
+0 1 0 1012 0 0
+/cat/upload/gambar_soal/harga-kaca.jpg
+1 1 0 16379 0 0
+/pbt/theme/image.php/clean/resource/1586587338/icon
+0 1 0 3604 0 0
+/pbt/theme/image.php/clean/core/1586587338/a/setting
+0 1 0 1316 1 0
+/cat/assets/login/vendor/select2/select2.min.css
+0 19 0 227940 0 0
+/pbt/theme/image.php/anomaly/qtype_truefalse/1586587338/icon
+0 1 0 190 0 0
+/pbt/theme/image.php/clean/theme/1586608629/fp/view_list_active
+0 1 0 742 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/insert_nonbreaking_space.png
+1 1 0 166 0 0
+/pbt/theme/image.php/clean/imscp/1586587338/icon
+0 1 0 9188 0 0
+/pbt/theme/image.php/clean/core/1586608523/i/settings
+0 1 0 1316 0 0
+/pbt/theme/image.php
+0 148 0 11167965 10 8
+/pbt/theme/image.php/clean/choice/1586587338/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/up
+0 1 0 909 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/left
+0 1 0 900 0 0
+/templates/img/nav-expand.png
+1 2 0 1946 0 0
+/pbt/lib/yuilib/3.13.0/cssbase/cssbase-min.css
+0 1 0 754 0 0
+/pbt/lib/javascript.php/1586587338/course/format/weeks/format.js
+0 2 0 1122 0 0
+/pbt/theme/image.php/clean/theme/1586608629/fp/path_folder
+0 1 0 1413 0 0
+/pbt/theme/image.php/clean/repository_local/1586587338/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/up
+0 1 0 899 0 0
+/pbt/theme/image.php/fusion/workshop/1586608523/icon
+0 1 0 6767 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/fullscreen.png
+1 1 0 314 0 0
+/cat/assets/login/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+0 19 0 465000 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/switch_minus
+0 8 0 7488 0 0
+/pbt/blog/
+0 2 0 56802 0 0
+/pbt/theme/image.php/clean/workshop/1586608629/icon
+0 1 0 6767 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/edit
+0 1 0 820 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/add
+0 1 0 860 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/t/switch_plus
+0 6 0 6216 0 1
+/pbt/theme/image.php/boxxie/core/1586587338/i/calendar
+0 2 0 2496 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/unflagged
+0 1 0 288 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/backup
+0 1 0 1049 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/enrolusers
+0 1 0 910 0 0
+/pbt/lib/javascript.php/1586587338/user/module.js
+0 2 0 738 0 0
+/pbt/course/modedit.php
+0 3 0 640599 0 0
+/sd/keuangan/dashboard
+0 1 0 11161 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/add
+0 1 0 860 0 0
+/pbt/theme/image.php/clean/core/1586587338/docs
+0 1 0 1011 0 0
+/cat/assets/login/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2
+0 9 0 694440 0 0
+/pbt/theme/image.php/clean/qtype_multichoice/1586608629/icon
+0 1 0 214 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/tiny_mce.js
+0 3 0 697449 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/hide
+0 1 0 1025 0 0
+/pbt/theme/image.php/clean/core/1586608629/req
+0 1 0 118 0 0
+/pbt/theme/image.php/anomaly/repository_upload/1586587338/icon
+0 1 0 1971 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/switchrole
+0 1 0 827 0 0
+/tk/siswa/login
+0 2 0 4608 0 0
+/templates/assets/advanced-datatable/media/css/demo_page.css
+0 11 0 10590 0 0
+/pbt/lib/javascript.php/1586587338/question/qbank.js
+0 1 0 1068 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/navigationitem
+0 5 0 3770 0 0
+/pbt/theme/image.php/fusion/lti/1586608523/icon
+0 1 0 4028 0 0
+/pbt/theme/image.php/clean/core/1586608629/adv
+0 1 0 118 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/moveleft
+0 1 0 64 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/return
+0 2 0 1894 0 0
+/paud/keuangan/home/detailSPP/18871029
+0 3 0 127962 1 0
+/pbt/theme/image.php/clean/qtype_multianswer/1586608629/icon
+0 1 0 84 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/report
+0 2 0 1752 0 0
+/upload/cms/logo.png
+1 79 0 1405503 0 0
+/pbt/theme/image.php/fusion/core/1586608523/spacer
+0 1 0 43 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/right
+0 1 0 894 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/copy
+0 1 0 761 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/subscript.png
+1 1 0 364 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/header-bg
+0 1 0 657 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/switch_minus
+0 1 0 936 0 1
+/sd/guru/login
+0 2 0 4614 1 0
+/cat/assets/login/fonts/poppins/Poppins-Medium.ttf
+0 9 0 1291644 0 0
+/templates/assets/advanced-datatable/media/js/jquery.dataTables.js
+0 11 0 1132767 0 0
+/pbt/theme/image.php/fusion/core/1586608523/help
+0 1 0 1114 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/header-center
+0 1 0 30226 0 0
+/pbt/course/view.php
+0 50 0 6966047 1 0
+/templates/assets/bootstrap-datetimepicker/js/bootstrap-datetimepicker.js
+0 11 0 157962 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/text_highlight.png
+1 1 0 520 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/managefiles/2014010800/editor_plugin.js
+0 4 0 11176 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/withsubcat
+0 2 0 1612 1 0
+/pbt/theme/image.php/clean/wiki/1586587338/icon
+0 1 0 13126 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/add
+0 1 0 860 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/decrease_indent.png
+1 1 0 205 0 0
+/pbt/theme/image.php/clean/core/1586587338/a/download_all
+0 1 0 1047 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/moodlenolink/2013110500/img/prevent_autolink.png
+1 3 0 1197 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/group
+0 4 0 3036 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/editstring
+0 1 0 836 0 0
+/pbt/enrol/users.php
+0 6 0 329192 0 0
+/pbt/theme/image.php/fusion/page/1586608523/icon
+0 1 0 7213 0 0
+/pbt/theme/image.php/clean/qtype_calculatedsimple/1586608629/icon
+0 1 0 896 0 0
+/pbt/theme/styles.php/boxxie/1586587338/all
+0 6 0 316570 1 0
+/pbt/lib/editor/tinymce/plugins/loader.php/ctrlhelp/2013110500/editor_plugin.js
+0 3 0 1347 0 0
+/templates/assets/advanced-datatable/media/images/sort_both.png
+1 2 0 2272 0 0
+/pbt/theme/image.php/anomaly/qtype_multichoice/1586587338/icon
+0 1 0 214 0 0
+/pbt/theme/image.php/anomaly/chat/1586587338/icon
+0 1 0 5364 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/paste_text.png
+1 1 0 292 0 0
+/pbt/theme/image.php/fusion/folder/1586608523/icon
+0 1 0 3988 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/navigationitem
+0 1 0 754 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/down
+0 1 0 899 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/find_replace.png
+1 1 0 366 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/preview
+0 1 0 974 0 0
+/pbt/theme/image.php/anomaly/qtype_multianswer/1586587338/icon
+0 1 0 84 0 0
+/paud/siswa/login
+0 4 0 9224 0 1
+/pbt/theme/image.php/clean/lti/1586587338/icon
+0 1 0 4028 0 0
+/templates/assets/bootstrap-datepicker/css/datepicker.css
+0 12 0 30380 0 0
+/pbt/lib/yuilib/3.13.0/cssreset/cssreset-min.css
+0 1 0 864 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/a/download_all
+0 3 0 3141 0 0
+/templates/assets/advanced-datatable/media/css/demo_table.css
+0 11 0 64632 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/permissions
+0 1 0 916 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/calendar
+0 1 0 1248 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/backup
+0 2 0 2098 0 0
+/pbt/lib/yuilib/3.17.2/event-move/event-move-min.js
+0 1 0 4003 0 0
+/pbt/install/css.php
+0 17 0 634152 0 0
+/sd
+0 68 0 509503 8 8
+/pbt/question/edit.php
+0 4 0 343088 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/edit_menu
+0 1 0 1325 0 0
+/pbt/theme/image.php/clean/chat/1586608629/icon
+0 1 0 5364 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/left
+0 1 0 900 0 0
+/paud/keuangan/login
+0 15 0 34579 12 2
+/pbt/theme/image.php/clean/qtype_truefalse/1586608629/icon
+0 1 0 190 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/a/logout
+0 1 0 957 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/group
+0 2 0 2024 0 1
+/pbt/theme/image.php/clean/core/1586587338/i/course
+0 1 0 1426 0 0
+/paud/keuangan/home/detailSPP/img/avatar1_small.jpg
+1 3 0 127458 0 0
+/pbt/theme/styles.php
+0 4 0 111003 1 0
+/templates/js/common-scripts.js
+0 11 0 13784 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/switch_plus
+0 1 0 1036 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/lists/editor_plugin.js
+0 3 0 43140 0 0
+/pbt/theme/image.php/anomaly/data/1586587338/icon
+0 1 0 5253 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/edit
+0 1 0 1328 0 0
+/pbt/theme/image.php/standard/theme/1586587338/favicon
+0 2 0 1788 0 0
+/pbt/theme/image.php/fusion/theme/1586587338/side-bg
+0 1 0 6097 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/report
+0 1 0 876 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/block_to_dock
+0 8 0 8240 0 0
+/pbt/lib/yuilib/3.17.2/event-mousewheel/event-mousewheel-min.js
+0 1 0 530 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/settings
+0 4 0 5264 0 0
+/cat/___/css/style.css
+0 3 0 9450 0 0
+/pbt/theme/
+0 26 0 2760776 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/header-center-sm
+0 1 0 22088 0 0
+/cat/adm/m_soal
+0 2 0 20298 0 0
+/tk
+0 14 0 92880 2 1
+/pbt/lib/ajax/getsiteadminbranch.php
+0 12 0 880236 0 0
+/pbt/user/
+0 2 0 123624 0 0
+/pbt/theme/image.php/anomaly/url/1586587338/icon
+0 1 0 53458 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/unflagged
+0 1 0 288 0 0
+/sd/siswa/login
+0 14 0 32160 1 0
+/pbt/theme/image.php/anomaly/core/1586587338/a/create_folder
+0 1 0 825 0 0
+/pbt/theme/image.php/fusion/label/1586608523/icon
+0 1 0 6256 0 0
+/pbt/lib/ajax/blocks.php
+0 5 0 0 0 0
+/pbt/theme/image.php/clean/quiz/1586587338/icon
+0 1 0 5240 0 1
+/pbt/theme/image.php/standard/core/1586587338/i/loading_small
+0 1 0 1720 0 0
+/pbt/lib/yuilib/3.13.0/cache-base/cache-base-min.js
+0 1 0 2251 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/tab/tabrow1
+0 1 0 269 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/warning
+0 1 0 974 0 0
+/pbt/theme/boxxie/pix/screenshot.jpg
+1 1 0 27327 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/settings
+0 1 0 1316 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/fp/path_folder
+0 1 0 1413 0 0
+/pbt/theme/styles.php/boxxie/1586587338/editor
+0 3 0 1308 0 0
+/pbt/theme/image.php/clean/data/1586608629/icon
+0 1 0 5253 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/edit_menu
+0 1 0 1325 0 0
+/cat/___/fonts/roboto7.woff2
+0 1 0 17492 0 0
+/pbt/theme/image.php/clean/repository_url/1586587338/icon
+0 1 0 1971 0 0
+/pbt/theme/image.php/boxxie/core/1586587338/i/navigationitem
+0 4 0 3016 0 0
+/pbt/lib/yuilib/3.17.2/event-touch/event-touch-min.js
+0 1 0 1712 0 0
+/pbt/course/edit.php
+0 15 0 2503198 0 0
+/pbt/theme/image.php/boxxie/theme/1586587338/fp/view_icon_active
+0 3 0 2400 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/enrolusers
+0 2 0 1820 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/i/hide
+0 1 0 1086 0 0
+/pbt/theme/image.php/anomaly/resource/1586587338/icon
+0 1 0 3604 0 0
+/pbt/theme/image.php/fusion/core/1586608523/i/groupn
+0 1 0 827 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/searchreplace/editor_plugin.js
+0 3 0 3138 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/switch_plus
+0 2 0 2072 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/special_character.png
+1 1 0 363 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/undo.png
+1 1 0 298 0 0
+/pbt/theme/image.php/clean/folder/1586608629/icon
+0 1 0 3988 0 0
+/pbt/theme/image.php/clean/lesson/1586587338/icon
+0 1 0 7409 0 0
+/pbt/theme/image.php/standard/core/1586587338/t/switch_minus
+0 2 0 1872 0 0
+/pbt/theme/image.php/clean/repository_user/1586587338/icon
+0 1 0 3166 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/backup
+0 1 0 1049 0 0
+/pbt/theme/image.php/boxxie/theme/1586587338/fp/view_list_active
+0 3 0 2226 0 0
+/pbt/theme/image.php/anomaly/theme/1586587338/fp/dnd_arrow
+0 1 0 83796 0 0
+/cat/adm/m_soal/pilih_mapel/2
+0 1 0 17799 0 0
+/cat/adm/m_soal/pilih_mapel/4
+0 1 0 18311 0 0
+/pbt/theme/image.php/clean/core/1586587338/req
+0 1 0 118 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/enrolusers
+0 1 0 910 0 0
+/templates/assets/bootstrap-colorpicker/css/colorpicker.css
+0 12 0 16254 0 0
+/pbt/theme/image.php/anomaly/qtype_randomsamatch/1586587338/icon
+0 1 0 152 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/preview
+0 1 0 974 0 0
+/pbt/pix/moodlelogo.gif
+1 2 0 2617 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/expanded
+0 2 0 1522 0 0
+/pbt/lib/javascript.php/1586587338/question/flags.js
+0 1 0 684 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/t/expanded
+0 1 0 761 0 0
+/upload/cms/bg02.png
+1 86 0 220374837 0 0
+/pbt/theme/image.php/clean/core/1586587338/adv
+0 1 0 118 0 0
+/pbt/theme/image.php/clean/core/1586608629/a/logout
+0 1 0 957 0 0
+/pbt/theme/image.php/fusion/theme/1586608523/main-bg
+0 1 0 124 0 0
+/pbt/theme/image.php/clean/book/1586587338/icon
+0 1 0 4640 0 0
+/cat/adm/act_login
+0 2 0 515 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/assignroles
+0 1 0 885 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/help
+0 1 0 1114 0 0
+/pbt/theme/image.php/fusion/core/1586587338/t/block_to_dock
+0 1 0 1030 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/paste/editor_plugin.js
+0 3 0 41139 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/settings
+0 2 0 2632 1 0
+/pbt/theme/image.php/standard/theme/1586587338/hgradient
+0 2 0 692 0 0
+/pbt/question/import.php
+0 4 0 319763 0 0
+/pbt/user/editadvanced.php
+0 4 0 376272 0 0
+/pbt/backup/restorefile.php
+0 1 0 54125 0 0
+/pbt/theme/image.php/clean/core/1586608629/t/editstring
+0 1 0 836 0 0
+/pbt/lib/javascript.php/1586587338/lib/editor/tinymce/module.js
+0 3 0 2955 0 0
+/pbt/theme/image.php/anomaly/page/1586587338/icon
+0 1 0 7213 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/table/editor_plugin.js
+0 3 0 53001 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/plugins/iespell/editor_plugin.js
+0 3 0 2727 0 0
+/pbt/user/profile.php
+0 8 0 234386 0 0
+/pbt/theme/image.php/standard/core/1586587338/i/navigationitem
+0 2 0 1508 0 0
+/pbt/theme/javascript.php/clean/1586608629/footer
+0 10 0 5360 0 1
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/ui.css
+0 3 0 65679 0 0
+/pbt/theme/image.php/clean/core/1586608629/help
+0 8 0 8912 0 1
+/pbt/theme/image.php/clean/core/1586587338/a/add_file
+0 1 0 933 0 0
+/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/img/insert_edit_image.png
+1 3 0 822 0 0
+/pbt/theme/image.php/anomaly/core/1586587338/a/add_file
+0 1 0 933 1 0
+/templates/js/jquery.nicescroll.js
+0 11 0 237456 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/collapsed_empty
+0 1 0 866 0 0
+/pbt/theme/image.php/clean/core/1586587338/t/editstring
+0 1 0 836 0 0
+/cat/adm
+0 1 0 5592 0 0
+/pbt/theme/image.php/fusion/core/1586608523/t/block_to_dock
+0 1 0 1030 0 0
+/pbt/mod/quiz/attempt.php
+0 4 0 288641 0 0
+/pbt/lib/editor/tinymce/plugins/loader.php/pdw/2013110500/editor_plugin.js
+0 3 0 7401 0 0
+/pbt/theme/image.php/clean/core/1586587338/i/checkpermissions
+0 1 0 936 0 0
+/pbt/theme/image.php/clean/qtype_essay/1586608629/icon
+0 1 0 104 0 0
+/tk/keuangan/login
+0 1 0 2299 0 0
+/pbt/theme/image.php/clean/core/1586608629/i/checkpermissions
+0 3 0 2808 0 0
+/pbt/course/rest.php
+0 6 0 48 0 1
+/sd/keuangan/tagihan-spp
+0 1 0 538008 0 0
+/pbt/theme/image.php/clean/page/1586608629/icon
+0 1 0 7213 0 0
+/pbt/theme/image.php/clean/core/1586608523/t/assignroles
+0 1 0 885 0 0
+# End Of Table - urls
+# -sites- (monthly)
+114.125.127.251
+0 1 1 102897 0 0
+-
+131.157.77.103.best.net.id
+0 107 95 10926780 7 1587611704
+/sd
+182.1.113.32
+0 4 4 215834 0 0
+-
+23.237.4.26
+0 17 17 60861 2 1587223502
+/
+114.125.126.221
+0 1 0 2333 0 0
+-
+46.101.177.241
+0 1 0 2333 1 1587287273
+-
+host-158.140.163-118.myrepublic.co.id
+0 1 1 3895433 0 0
+-
+crawl-66-249-66-5.googlebot.com
+0 1 0 2333 0 0
+-
+host-158.140.163-83.myrepublic.co.id
+0 5 3 3909660 2 1586706804
+/
+host-158.140.163-28.myrepublic.co.id
+0 389 205 39239231 11 1586662006
+/sd/siswa/login
+125.166.119.61
+0 35 28 4238019 3 1586698785
+/sd
+ec2-54-201-99-195.us-west-2.compute.amazonaws.com
+0 1 1 5971 1 1586588875
+/
+114.125.125.231
+0 1 1 86556 0 0
+-
+host-158.140.163-74.myrepublic.co.id
+0 414 220 43361385 9 1586662008
+/sd
+125.166.119.89
+0 10 10 245179 2 1586698070
+/pbt/
+crawl-66-249-65-83.googlebot.com
+0 2 0 2541 0 0
+-
+36.71.68.98
+0 60 54 9950921 1 1587604238
+/sd/keuangan/tagihan-spp
+114.125.125.249
+0 2 2 8770 1 1587047054
+/paud/keuangan/login
+ec2-52-39-104-92.us-west-2.compute.amazonaws.com
+0 1 1 5971 1 1586506248
+/
+crawl-66-249-75-171.googlebot.com
+0 1 0 208 0 0
+-
+69.25.58.61
+0 131 131 780593 67 1587755807
+/
+36.85.65.168
+0 80 65 12626414 4 1586646004
+/sd
+crawl-66-249-64-228.googlebot.com
+0 1 1 8042 1 1586874143
+/sd
+crawl-66-249-75-228.googlebot.com
+0 1 0 2333 0 0
+-
+crawl-66-249-79-53.googlebot.com
+0 2 0 2541 0 0
+-
+ec2-52-59-102-42.eu-central-1.compute.amazonaws.com
+0 1 1 5971 1 1586595983
+/
+crawl-66-249-71-156.googlebot.com
+0 1 0 208 0 0
+-
+crawl-66-249-64-232.googlebot.com
+0 4 3 21201 3 1586881868
+/tk
+36.70.253.45
+0 1549 1387 62065570 33 1586614392
+/sd
+crawl-66-249-65-87.googlebot.com
+0 1 0 2333 0 0
+-
+defiant.proxyblocker.org
+0 1 0 2333 1 1586549808
+-
+114.125.125.84
+0 2 0 4666 0 0
+-
+crawl-66-249-75-175.googlebot.com
+0 1 0 2333 0 0
+-
+host-158.140.163-93.myrepublic.co.id
+0 175 71 10474933 3 1587093871
+/sd
+114.125.81.65
+0 17 17 222829 2 1586594840
+/pbt/theme/image.php/boxxie/theme/1586587338/favicon
+114.125.81.88
+0 18 16 715164 1 1586911081
+/paud/keuangan/login
+114.125.81.100
+0 62 52 1719480 1 1586699310
+/paud/keuangan/home/detailSPP/18871029
+google-proxy-64-233-172-77.google.com
+0 5 3 22507 3 1587451677
+/
+ec2-52-28-3-120.eu-central-1.compute.amazonaws.com
+0 1 1 5971 1 1586596445
+/
+crawl-66-249-79-50.googlebot.com
+0 3 0 2749 0 0
+-
+crawl-66-249-65-131.googlebot.com
+0 9 9 327198 2 1586741636
+/paud/kesiswaan/login
+171.13.14.7
+0 1 1 5971 1 1586558932
+/
+crawl-66-249-79-103.googlebot.com
+0 1 1 5971 1 1586589264
+/
+host-158.140.163-57.myrepublic.co.id
+0 190 91 24768678 2 1587083481
+/sd
+182.1.112.33
+0 1 0 0 1 1586757851
+/paud/keuangan/home/detailSPP/18871029
+host-66-96-229-59.myrepublic.co.id
+0 851 774 71427853 21 1586590245
+/pbt/
+subs44-116-206-40-72.three.co.id
+0 2 1 8280 1 1586892041
+/
+ec2-3-21-240-138.us-east-2.compute.amazonaws.com
+0 4 3 3946328 1 1586604382
+/
+202.67.40.247
+0 22 20 276149 1 1586597774
+/pbt/theme/image.php/clean/core/1586587338/i/warning
+crawl-66-249-66-76.googlebot.com
+0 2 0 4666 0 0
+-
+uksrv1.websiteserverbox.com
+0 1 0 2333 1 1587281169
+-
+182.1.96.253
+0 2 1 105230 0 0
+-
+114.125.126.106
+0 1 1 8940 0 0
+-
+182.1.98.89
+0 1 1 5947 1 1586700132
+/
+crawl-66-249-65-135.googlebot.com
+0 6 3 9733 2 1586742070
+/sd/siswa/login
+114.125.109.69
+0 6 6 245883 1 1587042780
+/paud/keuangan/login
+195-154-59-204.rev.poneytelecom.eu
+0 1 1 5971 1 1586460892
+/
+188-163-104-143.broadband.kyivstar.net
+0 1 1 5971 1 1586546295
+/
+173.211.76.247.rdns.colocationamerica.com
+0 1 1 5971 1 1586489403
+/
+webmail.idvey.com
+0 1 0 2333 1 1586856175
+-
+crawl-66-249-79-47.googlebot.com
+0 1 0 2333 0 0
+-
+114.125.125.119
+0 3 3 107499 2 1586844807
+/paud/keuangan/login
+crawl-66-249-66-7.googlebot.com
+0 2 0 2541 0 0
+-
+ip198.ip-51-77-249.eu
+0 2 2 11894 2 1586602166
+/
+crawl-66-249-71-154.googlebot.com
+0 2 0 2541 0 0
+-
+subs44-116-206-40-103.three.co.id
+0 2 2 48538 1 1586700152
+/
+62-210-79-40.rev.poneytelecom.eu
+0 1 1 5971 1 1586583585
+/
+114.124.213.54
+0 2 0 1852 1 1586443541
+-
+crawl-66-249-75-230.googlebot.com
+0 2 0 2541 0 0
+-
+google-proxy-64-233-172-79.google.com
+0 3 2 14227 2 1587362177
+/
+crawl-66-249-65-85.googlebot.com
+0 3 0 2749 0 0
+-
+survey.internet-census.org
+0 1 1 5971 1 1586448110
+/
+crawl-66-249-65-211.googlebot.com
+0 2 0 2541 0 0
+-
+5.101.0.209
+0 3 3 17913 1 1586504219
+/
+crawl-66-249-75-173.googlebot.com
+0 2 0 2541 0 0
+-
+114.125.124.85
+0 5 4 3973536 1 1586835951
+/
+114.125.109.247
+0 4 3 38851 1 1586854779
+/paud/keuangan/login
+114.125.108.210
+0 1 1 2301 1 1587025942
+/paud/keuangan/login
+125.166.119.122
+0 20 17 268947 1 1586863664
+/pbt/login/
+crawl-66-249-66-77.googlebot.com
+0 2 0 416 0 0
+-
+125.166.119.143
+0 36 26 23207971 6 1586701116
+/sd
+heath.onyphe.io
+0 1 1 5971 1 1586743325
+/
+subs14-223-255-230-226.three.co.id
+0 4 3 3946304 1 1586862090
+/
+103.147.10.206
+0 1 0 2333 1 1587545437
+-
+182.1.115.207
+0 4 4 150476 0 0
+-
+host-158.140.163-27.myrepublic.co.id
+0 4 2 50871 1 1586685552
+/
+114.125.111.136
+0 2 1 3897766 0 0
+-
+182.1.99.127
+0 1 1 2301 1 1586870029
+/paud/keuangan/login
+google-proxy-66-249-82-133.google.com
+0 1 1 42591 0 0
+-
+182.1.115.210
+0 2 2 99575 0 0
+-
+crawl-66-249-79-99.googlebot.com
+0 1 0 208 0 0
+-
+crawl-66-249-65-158.googlebot.com
+0 1 0 208 0 0
+-
+125.166.119.199
+0 161 156 5569701 2 1586596599
+/pbt/theme/image.php/clean/theme/1586587338/favicon
+171.13.14.15
+0 1 1 42591 0 0
+-
+google-proxy-66-102-6-129.google.com
+0 1 1 5947 1 1587008436
+/
+202.67.46.30
+0 4 4 48521 1 1586688585
+/pbt/
+125.166.117.129
+0 9 7 4884662 1 1586700430
+/
+182.1.97.13
+0 3 3 36518 1 1586757855
+/paud/keuangan/login
+202.67.46.44
+0 1 1 5947 1 1586700259
+/
+114.125.110.157
+0 2 2 48538 1 1586867021
+/
+no-reverse-dns-configured.com
+0 1 1 5971 1 1586468500
+/
+crawl-66-249-71-155.googlebot.com
+0 1 0 2333 0 0
+-
+crawl-66-249-64-141.googlebot.com
+0 2 0 2541 0 0
+-
+182.1.114.242
+0 3 2 107531 1 1587005911
+/paud/keuangan/login
+crawl-66-249-65-129.googlebot.com
+0 1 0 2333 0 0
+-
+research.esrg.stanford.edu
+0 2 2 11942 2 1586604937
+/
+171.13.14.75
+0 1 1 3895433 0 0
+-
+103.213.128.176
+0 29 27 301102 1 1586620822
+/pbt/login/
+114.125.127.229
+0 1 1 93106 0 0
+-
+crawl-66-249-65-133.googlebot.com
+0 18 15 580986 2 1586741769
+/
+ns571186.ip-192-99-36.net
+0 2 0 2541 1 1587691491
+-
+google-proxy-64-233-172-75.google.com
+0 4 1 12946 1 1587362255
+/
+subs14-223-255-230-236.three.co.id
+0 13 13 118173 2 1586613474
+/pbt/theme/image.php/clean/theme/1586608629/favicon
+67.205.160.159
+0 2 2 11942 1 1586484799
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+host-158.140.163-118.myrepublic.co.id
+0 1 1 3895433 0 0
+-
+crawl-66-249-75-171.googlebot.com
+0 1 0 208 0 0
+-
+69.25.58.61
+0 6 6 35754 3 1587755807
+/
+crawl-66-249-75-173.googlebot.com
+0 1 0 2333 0 0
+-
+ns571186.ip-192-99-36.net
+0 2 0 2541 1 1587691491
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://localhost/ids/
+0 2
+http://www.ids.sekolahanaksaleh.com/paud/guru/login
+0 6
+http://ids.sekolahanaksaleh.com/sd/siswa/login
+0 18
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/fusion/1586587338/all
+0 7
+http://ids.sekolahanaksaleh.com/pbt/theme/styles_debug.php
+0 1
+- (Direct Request)
+0 609
+http://ids.sekolahanaksaleh.com/cat/login
+0 276
+http://ids.sekolahanaksaleh.com/pbt/blog/index.php
+0 2
+http://ids.sekolahanaksaleh.com/sd/keuangan/login
+0 14
+http://ids.sekolahanaksaleh.com/pbt/mod/quiz/edit.php
+0 100
+http://ids.sekolahanaksaleh.com/paud/keuangan/pilih-laporan
+0 7
+http://ids.sekolahanaksaleh.com/pbt/course/index.php
+0 43
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/anomaly/1586587338/all
+0 17
+http://ids.sekolahanaksaleh.com/templates/assets/font-awesome/css/font-awesome.css
+0 2
+http://ids.sekolahanaksaleh.com/pbt/course/editcategory.php
+0 4
+http://ids.sekolahanaksaleh.com/pbt/backup/import.php
+0 1
+http://ids.sekolahanaksaleh.com/pbt/login/index.php
+0 107
+http://ids.sekolahanaksaleh.com/pbt/message/index.php
+0 1
+http://ids.sekolahanaksaleh.com/paud/keuangan/laporan
+0 2
+http://sekolahanaksaleh.com
+0 1
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/clean/1586608523/all
+0 2
+http://ids.sekolahanaksaleh.com/pbt/user/view.php
+0 3
+http://ids.sekolahanaksaleh.com/pbt/question/import.php
+0 32
+http://ids.sekolahanaksaleh.com/pbt/admin/upgradesettings.php
+0 44
+http://209.97.172.173/
+0 3
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/clean/1586608629/all
+0 25
+http://www.ids.sekolahanaksaleh.com/sd/siswa/dashboard
+0 225
+http://ids.sekolahanaksaleh.com/sd/keuangan/tagihan-spp
+0 5
+http://ids.sekolahanaksaleh.com/sd/keuangan/dashboard
+0 24
+http://ids.sekolahanaksaleh.com/paud/keuangan/home/detailSPP/18871029
+0 6
+http://www.ids.sekolahanaksaleh.com/cat/adm/login
+0 13
+http://ids.sekolahanaksaleh.com/pbt/enrol/index.php
+0 4
+http://www.ids.sekolahanaksaleh.com/cat/adm
+0 2
+http://ids.sekolahanaksaleh.com/sd/admin/tagihan-spp
+0 1
+http://ids.sekolahanaksaleh.com/pbt/theme/yui_combo.php
+0 2
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/standard/1586587338/all
+0 7
+http://www.ids.sekolahanaksaleh.com/paud/keuangan/login
+0 7
+http://ids.sekolahanaksaleh.com/pbt/question/edit.php
+0 8
+http://www.ids.sekolahanaksaleh.com/
+0 81
+http://ids.sekolahanaksaleh.com/pbt/install.php
+0 47
+http://ids.sekolahanaksaleh.com/pbt/badges/view.php
+0 2
+http://209.97.172.173:80/index.php
+0 1
+http://ids.sekolahanaksaleh.com/pbt/course/management.php
+0 45
+http://ids.sekolahanaksaleh.com/pbt/mod/quiz/attempt.php
+0 15
+http://ids.sekolahanaksaleh.com/cat/assets/login/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+0 5
+http://httpheader.net/
+0 1
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/clean/1586587338/all
+0 10
+http://ids.sekolahanaksaleh.com/
+0 108
+http://ids.sekolahanaksaleh.com/pbt/mod/quiz/summary.php
+0 6
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/boxxie/1586587338/all
+0 23
+http://www.ids.sekolahanaksaleh.com/cat/adm/m_soal
+0 7
+http://www.ids.sekolahanaksaleh.com/sd/siswa/login
+0 28
+http://ids.sekolahanaksaleh.com/templates/css/style.css
+0 3
+http://www.ids.sekolahanaksaleh.com/cat/___/css/bootstrap.css
+0 1
+http://ids.sekolahanaksaleh.com/sd
+0 59
+http://ids.sekolahanaksaleh.com/paud
+0 5
+http://www.ids.sekolahanaksaleh.com/paud/admin/login
+0 21
+http://ids.sekolahanaksaleh.com/pbt/my/
+0 27
+http://ids.sekolahanaksaleh.com/pbt
+0 1
+http://www.ids.sekolahanaksaleh.com/cat/assets/login/css/main.css
+0 16
+http://www.ids.sekolahanaksaleh.com/templates/assets/font-awesome/css/font-awesome.css
+0 1
+http://www.ids.sekolahanaksaleh.com/cat/assets/login/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+0 4
+http://ids.sekolahanaksaleh.com/pbt/course/view.php
+0 224
+http://www.ids.sekolahanaksaleh.com/paud/kesiswaan/login
+0 4
+http://ids.sekolahanaksaleh.com/pbt/cohort/index.php
+0 66
+http://209.97.172.173:80/
+0 4
+http://www.ids.sekolahanaksaleh.com/cat/adm/m_siswa
+0 2
+http://ids.sekolahanaksaleh.com/pbt/enrol/users.php
+0 27
+http://ids.sekolahanaksaleh.com/pbt/install/css.php
+0 2
+http://ids.sekolahanaksaleh.com/paud/keuangan/login
+0 60
+http://ids.sekolahanaksaleh.com/pbt/backup/restorefile.php
+0 10
+http://ids.sekolahanaksaleh.com/pbt/admin/tool/uploaduser/index.php
+0 31
+http://ids.sekolahanaksaleh.com/paud/admin/tagihan-spp
+0 1
+http://ids.sekolahanaksaleh.com/pbt/backup/backup.php
+0 4
+http://ids.sekolahanaksaleh.com/pbt/lib/editor/tinymce/tiny_mce/3.5.10/themes/advanced/skins/moodle/ui.css
+0 53
+http://ids.sekolahanaksaleh.com/sd/admin/login
+0 5
+http://www.ids.sekolahanaksaleh.com/sd
+0 10
+http://ids.sekolahanaksaleh.com/paud/keuangan/tagihan-spp
+0 4
+http://ids.sekolahanaksaleh.com/pbt/course/edit.php
+0 158
+http://ids.sekolahanaksaleh.com/pbt/course/editsection.php
+0 3
+http://www.ids.sekolahanaksaleh.com/tk
+0 5
+http://ids.sekolahanaksaleh.com/paud/keuangan/dashboard
+0 23
+http://ids.sekolahanaksaleh.com/pbt/cohort/assign.php
+0 169
+http://ids.sekolahanaksaleh.com/pbt/user/index.php
+0 7
+http://ids.sekolahanaksaleh.com/pbt/admin/index.php
+0 486
+http://ids.sekolahanaksaleh.com/templates/assets/advanced-datatable/media/css/demo_table.css
+0 10
+http://ids.sekolahanaksaleh.com/pbt/admin/settings.php
+0 67
+http://ids.sekolahanaksaleh.com/pbt/theme/styles.php/fusion/1586608523/all
+0 11
+http://www.ids.sekolahanaksaleh.com/cat/adm/m_soal/pilih_mapel/2
+0 1
+http://www.ids.sekolahanaksaleh.com/cat/adm/m_soal/pilih_mapel/4
+0 4
+http://ids.sekolahanaksaleh.com/pbt/cohort/edit.php
+0 52
+http://ids.sekolahanaksaleh.com/paud/admin/login
+0 8
+http://ids.sekolahanaksaleh.com/sd/admin/home/detailSPP/1401
+0 1
+http://ids.sekolahanaksaleh.com/paud/keuangan/histori-tagihan
+0 1
+http://www.ids.sekolahanaksaleh.com/cat/adm/m_mapel
+0 2
+http://ids.sekolahanaksaleh.com/pbt/user/profile.php
+0 12
+http://ids.sekolahanaksaleh.com/cat/assets/login/css/main.css
+0 19
+http://www.ids.sekolahanaksaleh.com/paud
+0 30
+http://www.ids.sekolahanaksaleh.com/cat/___/css/style.css
+0 4
+http://ids.sekolahanaksaleh.com/pbt/course/modedit.php
+0 10
+http://ids.sekolahanaksaleh.com/sd/siswa/login/do_login
+0 1
+http://www.ids.sekolahanaksaleh.com/paud/siswa/login
+0 4
+http://ids.sekolahanaksaleh.com/pbt/my/index.php
+0 3
+http://www.ids.sekolahanaksaleh.com/cat/login
+0 85
+http://ids.sekolahanaksaleh.com/pbt/
+0 413
+http://ids.sekolahanaksaleh.com/pbt/user/editadvanced.php
+0 48
+http://ids.sekolahanaksaleh.com/pbt/theme/index.php
+0 269
+http://www.ids.sekolahanaksaleh.com/cat/adm/m_guru
+0 3
+http://ids.sekolahanaksaleh.com/pbt/mod/quiz/view.php
+0 31
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 10; SAMSUNG SM-N970F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770
+0 34
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+0 106
+Googlebot-Image/1.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 Edge/16.1
+0 1
+Mozilla/5.0 (Linux; Android 5.1; CPH1605) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 24
+Mozilla/5.0 (Linux; Android 10; SM-N970F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 4
+Mozilla/5.0 (Linux; U; Android 9; en-us; CPH1937 Build/PKQ1.190714.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 30
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 2
+WhatsApp/0.4.2088 N
+0 1
+Mozilla/5.0 (Windows N\\T 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.16
+0 131
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:74.0) Gecko/20100101 Firefox/74.0
+0 848
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 7.0; SM-N9208) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 9
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+0 127
+WhatsApp/2.20.108 A
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 38
+Mozilla/5.0 zgrab/0.x
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 8
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.2.28) Gecko/20120306 Firefox/3.6.28 (.NET CLR 3.5.30729)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+0 17
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 3
+Mozilla/5.0 (compatible; AlphaBot/3.2; +http://alphaseobot.com/bot.html)
+0 17
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko Firefox/11.0 (via ggpht.com GoogleImageProxy)
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36 OPR/67.0.
+0 1595
+Mozilla/5.0 (Linux; Android 9; SM-N950F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 4
+WhatsApp/0.4.316 N
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+0 161
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
+0 24
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:76.0) Gecko/20100101 Firefox/76.0
+0 1155
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+0 51
+Mozilla/5.0 (compatible; Wappalyzer; +https://github.com/AliasIO/Wappalyzer)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 4
+WhatsApp/2.20.31 i
+0 3
+libwww-perl/6.43
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-A507FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+0 40
+WhatsApp/2.20.40 A
+0 1
+Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+0 103
+Mozilla/5.0 (Linux; Android 10; SM-A507FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 6
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.84 Safari/537.36
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 13
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

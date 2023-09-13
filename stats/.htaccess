@@ -1,0 +1,7 @@
+AuthName "ids.sekolahanaksaleh.com statistics"
+AuthType Basic
+AuthUserFile /home/anaksaleh/domains/ids.sekolahanaksaleh.com/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

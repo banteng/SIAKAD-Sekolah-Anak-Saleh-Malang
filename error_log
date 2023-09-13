@@ -1,0 +1,53 @@
+[06-Sep-2019 11:18:23 Asia/Jakarta] PHP Fatal error:  Class 'REST_Controller' not found in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 5
+[06-Sep-2019 11:20:10 Asia/Jakarta] PHP Fatal error:  Class 'REST_Controller' not found in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 6
+[06-Sep-2019 11:21:00 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[08-Sep-2019 00:30:15 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[08-Sep-2019 00:30:35 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[11-Sep-2019 20:05:37 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[11-Sep-2019 20:07:18 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:21:24 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:21:25 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:21:34 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:21:34 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:22:09 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:23:38 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:23:38 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:23:52 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[12-Sep-2019 11:23:52 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[14-Sep-2019 14:10:02 Asia/Jakarta] PHP Fatal error:  Class Rest cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 8
+[14-Sep-2019 14:17:47 Asia/Jakarta] PHP Fatal error:  Class 'Restserver\Libraries\REST_Controller_Definitions' not found in /home/sekola32/public_html/ids/system/core/CodeIgniter.php on line 518
+[14-Sep-2019 14:20:28 Asia/Jakarta] PHP Fatal error:  Class 'Restserver\Libraries\REST_Controller_Definitions' not found in /home/sekola32/public_html/ids/system/core/CodeIgniter.php on line 518
+[14-Sep-2019 14:21:03 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Rest::__construct() in /home/sekola32/public_html/ids/application/controllers/ws/Rest.php on line 15
+[14-Sep-2019 20:02:44 Asia/Jakarta] PHP Fatal error:  Class Example cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Example.php on line 22
+[14-Sep-2019 20:04:22 Asia/Jakarta] PHP Fatal error:  Class Example cannot extend from trait Restserver\Libraries\REST_Controller in /home/sekola32/public_html/ids/application/controllers/ws/Example.php on line 22
+[22-Sep-2019 14:23:55 UTC] PHP Fatal error:  Cannot redeclare Model_all::filterKelas() in /home/sekola32/public_html/ids/application/models/Model_all.php on line 374
+[23-Sep-2019 14:51:12 UTC] PHP Warning:  Unterminated comment starting line 1647 in /home/sekola32/public_html/ids/application/controllers/admin/Home.php on line 1647
+[17-Dec-2019 12:03:32 UTC] PHP Fatal error:  Cannot redeclare Home::LaporanPembayaran() in /home/sekola32/public_html/ids/application/controllers/paud/admin/Home.php on line 1858
+[17-Dec-2019 12:34:41 UTC] PHP Fatal error:  Cannot redeclare Home::LaporanPembayaran() in /home/sekola32/public_html/ids/application/controllers/sd/admin/Home.php on line 1832
+[17-Dec-2019 12:36:04 UTC] PHP Fatal error:  Cannot redeclare Home::LaporanPembayaran() in /home/sekola32/public_html/ids/application/controllers/sd/admin/Home.php on line 1832
+[17-Dec-2019 12:36:39 UTC] PHP Fatal error:  Cannot redeclare Model_all::getPembayaranSD() in /home/sekola32/public_html/ids/application/models/sd/Model_all.php on line 491
+[17-Dec-2019 12:37:03 UTC] PHP Fatal error:  Cannot redeclare Model_all::getPembayaranSD() in /home/sekola32/public_html/ids/application/models/sd/Model_all.php on line 491
+[27-Dec-2019 15:11:02 UTC] PHP Fatal error:  Cannot redeclare Home::index() in /home/sekola32/public_html/ids/application/controllers/paud/admin/Home.php on line 50
+[04-Jan-2020 08:04:00 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 49693560 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[04-Jan-2020 08:04:02 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 49693560 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:36:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45776384 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:36:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45776384 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:36:40 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45765600 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:36:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45765600 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:37:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 45765600 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:38:47 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 47302608 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:39:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 46869648 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:39:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 46869648 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:39:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 46869648 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:41:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 46691056 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:42:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 53060976 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:42:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 53060976 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:42:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 53060976 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:42:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 53060976 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:43:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 53060976 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:43:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 46691056 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:43:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 46691056 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:45:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 46241816 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[06-Jan-2020 15:47:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 47340448 bytes) in /home/sekola32/public_html/ids/system/core/Output.php on line 198
+[10-Feb-2020 09:16:58 UTC] PHP Fatal error:  Cannot use [] for reading in /home/sekola32/public_html/ids/application/controllers/paud/admin/Home.php on line 806
+[10-Feb-2020 09:17:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/sekola32/public_html/ids/application/controllers/paud/admin/Home.php on line 806
